@@ -1,5 +1,5 @@
 body {
-    font-family: font-family: 'Roboto Mono', monospace;
+    font-family: 'Roboto Mono', monospace;
     font-size: 62.5%;
     }
 
@@ -8,7 +8,7 @@ h1 {
 }
 
 .plan {
-    margin: 0 6rem;
+    margin: 0 4rem;
   border: 2px solid lightgray;
   padding: 2rem;
   display: inline-block;
@@ -21,7 +21,7 @@ h1 {
 }
 
 .learn {
-    margin: 0 6rem;
+    margin: 0 4rem;
   border: 2px solid lightgray;
   padding: 2rem;
   display: inline-block;
@@ -34,7 +34,7 @@ h1 {
 }
 
 .get {
-    margin: 0 6rem;
+    margin: 0 4rem;
   border: 2px solid lightgray;
   padding: 2rem;
   display: inline-block;
@@ -47,29 +47,57 @@ h1 {
 }
 
 .picture {
-    width: 15rem;
+    width: 17rem;
     padding: 4rem;
-    border: 3 rem lightgray;
+    border: 3 rem;
     border-radius: 20rem;
     margin: 0;
+    float: left;
 }
 
 .about {
-    margin: 2rem;
-    width: 30%;
-    border: 3 rem;
-    padding: 3rem;
+    margin: 13rem;
+    width: 40%;
+    border: 5rem;
+    padding: 2rem;
+    text-align: center;
 }
 
 .two {
     background-color: #DDB9A3;
+    color: white;
+    width: 70rem;
+    border: 10rem;
+    padding: 4rem;
+    margin: 7rem;
+}
+
+.fire{ 
+    width: 10rem;
+    padding: 2rem;
+    border: 2rem;
+    margin: 0;
+}
+.third {
+    width: 5rem;
+    padding: 2rem;
+    border: 2rem lightgray;
+    margin: 0;
+    float: right;
 }
 
 .bld {
     font-weight: 700;
 }
 
-footer {
+.footer-content {
     width: 100%;
     background: #F9E7DC;
+    }
+
+    .pic2 {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 30%;
     }
