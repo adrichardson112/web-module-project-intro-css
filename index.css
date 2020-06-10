@@ -1,0 +1,75 @@
+body {
+    font-family: font-family: 'Roboto Mono', monospace;
+    font-size: 62.5%;
+    }
+
+h1 {
+    font-family: 'Chelsea Market', cursive;
+}
+
+.plan {
+    margin: 0 6rem;
+  border: 2px solid lightgray;
+  padding: 2rem;
+  display: inline-block;
+  border-radius: 2rem;
+  color: white;
+  text-decoration: none;
+  font-size: 2rem;
+  margin-bottom: 1rem;
+  background-color: #FF764E;
+}
+
+.learn {
+    margin: 0 6rem;
+  border: 2px solid lightgray;
+  padding: 2rem;
+  display: inline-block;
+  border-radius: 1rem;
+  color: white;
+  text-decoration: none;
+  font-size: 2rem;
+  margin-bottom: 2rem;
+  background-color: #5ED3EB;
+}
+
+.get {
+    margin: 0 6rem;
+  border: 2px solid lightgray;
+  padding: 2rem;
+  display: inline-block;
+  border-radius: 1rem;
+  color: white;
+  text-decoration: none;
+  font-size: 2rem;
+  margin-bottom: 2rem;
+  background-color: #FFCD69;
+}
+
+.picture {
+    width: 15rem;
+    padding: 4rem;
+    border: 3 rem lightgray;
+    border-radius: 20rem;
+    margin: 0;
+}
+
+.about {
+    margin: 2rem;
+    width: 30%;
+    border: 3 rem;
+    padding: 3rem;
+}
+
+.two {
+    background-color: #DDB9A3;
+}
+
+.bld {
+    font-weight: 700;
+}
+
+footer {
+    width: 100%;
+    background: #F9E7DC;
+    }
