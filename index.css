@@ -49,16 +49,16 @@ h1 {
 .picture {
     width: 17rem;
     padding: 4rem;
-    border: 3 rem;
+    border: 3rem;
     border-radius: 20rem;
     margin: 0;
     float: left;
 }
 
 .about {
-    margin: 13rem;
-    width: 40%;
-    border: 5rem;
+    margin: 11rem;
+    width: 100%;
+    border: 15rem;
     padding: 2rem;
     text-align: center;
 }
@@ -72,32 +72,22 @@ h1 {
     margin: 7rem;
 }
 
-.fire{ 
-    width: 10rem;
-    padding: 2rem;
-    border: 2rem;
-    margin: 0;
-}
 .third {
-    width: 5rem;
-    padding: 2rem;
-    border: 2rem lightgray;
-    margin: 0;
-    float: right;
+    width: 70px;
+    padding: 20px;
+    border: 20px lightgray;
+    margin: 5px;
+}
+
+.fourth {
+    width: 70px;
+    padding: 20px;
+    border: 20px lightgray;
+    margin: 5px;
+    display: flex;
+    flex-direction: row;
 }
 
 .bld {
     font-weight: 700;
 }
-
-.footer-content {
-    width: 100%;
-    background: #F9E7DC;
-    }
-
-    .pic2 {
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
-        width: 30%;
-    }
