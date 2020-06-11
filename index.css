@@ -30,6 +30,7 @@ p {
 .firstgroup {
     margin: 1 auto;
     width: 39rem;
+    padding: 1.5rem;
 }
 
 .plan {
@@ -71,6 +72,7 @@ p {
 .about {
     margin-top: 1.5rem;
     text-align: right;
+    margin-left: 50%;
 }
 
 .fire {
