@@ -5,6 +5,14 @@ body {
 
 h1 {
     font-family: 'Chelsea Market', cursive;
+    margin: 2rem 0;
+    font-size: 5rem;
+}
+
+h2, h3, h4, h5, h6 {
+    font-family: Georgia, cursive;
+    margin-bottom: 0;
+    padding: 0 1rem;
 }
 
 .plan {
@@ -45,8 +53,6 @@ h1 {
   margin-bottom: 2rem;
   background-color: #FFCD69;
 }
-
-
 
 .bld {
     font-weight: 700;
