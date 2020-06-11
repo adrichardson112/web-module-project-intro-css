@@ -46,47 +46,7 @@ h1 {
   background-color: #FFCD69;
 }
 
-.picture {
-    width: 17rem;
-    padding: 4rem;
-    border: 3rem;
-    border-radius: 20rem;
-    margin: 0;
-    float: left;
-}
 
-.about {
-    margin: 11rem;
-    width: 100%;
-    border: 15rem;
-    padding: 2rem;
-    text-align: center;
-}
-
-.two {
-    background-color: #DDB9A3;
-    color: white;
-    width: 70rem;
-    border: 10rem;
-    padding: 4rem;
-    margin: 7rem;
-}
-
-.third {
-    width: 70px;
-    padding: 20px;
-    border: 20px lightgray;
-    margin: 5px;
-}
-
-.fourth {
-    width: 70px;
-    padding: 20px;
-    border: 20px lightgray;
-    margin: 5px;
-    display: flex;
-    flex-direction: row;
-}
 
 .bld {
     font-weight: 700;
