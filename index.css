@@ -22,9 +22,15 @@ p {
 }
 
 .picture {
-    border-radius: 7rem;
+    border-radius: 50%;
     width: 35%;
     height: auto;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.container {
+    width: 100%;
 }
 
 .firstgroup {
@@ -34,10 +40,13 @@ p {
 }
 
 .plan {
-    margin: 1 1rem;
+    margin: 4 auto;
     border: 1px solid lightgray;
-    padding: 1.5rem;
+    padding: 2.5rem;
+    width: 18%;
     display: inline-block;
+    vertical-align: middle;
+    text-align: center;
     border-radius: 1.5rem;
     color: white;
     text-decoration: none;
@@ -46,10 +55,13 @@ p {
 }
 
 .learn {
-     margin: 1 1rem;
+     margin: 4 auto;
      border: 1px solid lightgray;
-     padding: 1.5rem;
+     padding: 2.5rem;
+     width: 18%;
      display: inline-block;
+     vertical-align: middle;
+     text-align: center;
      border-radius: 1.5rem;
      color: white;
      text-decoration: none;
@@ -58,10 +70,13 @@ p {
 }
 
 .get {
-    margin: 1 1rem;
+    margin: 4 auto;
     border: 1px solid lightgray;
-    padding: 1.5rem;
+    padding: 2.5rem;
+    width: 18%;
     display: inline-block;
+    vertical-align: middle;
+    text-align: center;
     border-radius: 1.5rem;
     color: white;
     text-decoration: none;
@@ -70,14 +85,20 @@ p {
 }
 
 .about {
-    margin-top: 1.5rem;
-    text-align: right;
-    margin-left: 50%;
+   margin: 0 auto;
+   width:75%;
+}
+
+.sectionone {
+    display: inline-block;
+    width: 45%;
+    vertical-align: middle;
 }
 
 .fire {
     background-color: #DDB9A3;
     margin-top: 1.5rem;
+    width: 80%;
     text-align: center;
 }
 
@@ -93,10 +114,20 @@ p {
     height: auto;
 }
 
+.firep {
+    margin: 0 auto;
+    width: 30%;
+}
+
 .truck {
     border-radius: 2rem;
     width: 20%;
     height: auto;
+}
+
+.truckp {
+    margin: 0 auto;
+    width: 30%;
 }
 
 .mountain {
