@@ -1,0 +1,150 @@
+body {
+    font-family: 'Roboto Mono', monospace;
+    }
+
+h1 {
+    font-family: 'Chelsea Market', cursive;
+    margin: 2rem 0;
+    font-size: 3rem;
+}
+
+h2, h3, h4, h5, h6 {
+    font-family: Georgia, cursive;
+    margin-bottom: 0;
+    padding: 0 1rem;
+}
+
+p {
+    font-size: 1rem;
+    font-family: 'Roboto Mono', monospace;
+    padding: .90rem;
+    line-height: 1;
+}
+
+.picture {
+    border-radius: 50%;
+    width: 35%;
+    height: auto;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.container {
+    width: 100%;
+}
+
+.firstgroup {
+    margin: 1 auto;
+    width: 39rem;
+    padding: 1.5rem;
+}
+
+.plan {
+    margin: 4 auto;
+    border: 1px solid lightgray;
+    padding: 2.5rem;
+    width: 18%;
+    display: inline-block;
+    vertical-align: middle;
+    text-align: center;
+    border-radius: 1.5rem;
+    color: white;
+    text-decoration: none;
+    margin-bottom: 1.5rem;
+    background-color: #FF764E;
+}
+
+.learn {
+     margin: 4 auto;
+     border: 1px solid lightgray;
+     padding: 2.5rem;
+     width: 18%;
+     display: inline-block;
+     vertical-align: middle;
+     text-align: center;
+     border-radius: 1.5rem;
+     color: white;
+     text-decoration: none;
+     margin-bottom: 1.5rem;
+     background-color: #5ED3EB;
+}
+
+.get {
+    margin: 4 auto;
+    border: 1px solid lightgray;
+    padding: 2.5rem;
+    width: 18%;
+    display: inline-block;
+    vertical-align: middle;
+    text-align: center;
+    border-radius: 1.5rem;
+    color: white;
+    text-decoration: none;
+    margin-bottom: 1.5rem;
+    background-color: #FFCD69;
+}
+
+.about {
+   margin: 0 auto;
+   width:75%;
+}
+
+.sectionone {
+    display: inline-block;
+    width: 45%;
+    vertical-align: middle;
+}
+
+.fire {
+    background-color: #DDB9A3;
+    margin-top: 1.5rem;
+    width: 80%;
+    text-align: center;
+}
+
+.content-row {
+    display: inline;
+    text-align: center;
+    padding: 1rem;
+}
+
+.camp {
+    border-radius: 2rem;
+    width: 20%;
+    height: auto;
+}
+
+.firep {
+    margin: 0 auto;
+    width: 30%;
+}
+
+.truck {
+    border-radius: 2rem;
+    width: 20%;
+    height: auto;
+}
+
+.truckp {
+    margin: 0 auto;
+    width: 30%;
+}
+
+.mountain {
+    height: 20rem;
+    width: 100%;
+}
+
+.bld {
+    font-weight: 700;
+}
+
+footer {
+    width: 100%;
+    background: #F9E7DC;
+    height: 10rem;
+}
+
+.footer-content {
+    display: flex;
+}
